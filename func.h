@@ -1,4 +1,4 @@
-// update, delete, selection, 이름, 인기도 검색(카운터)
+// update, delete, selection, search(이름, 인기도(카운터))
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
